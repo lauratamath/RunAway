@@ -1,0 +1,2 @@
+Una persona que se encuentra dentro del NavMesh, debe de llegar a su hogar, para esta a salvo, pues el coronavirus está dentro del NavMesh y se mueve a su alternativamente. 
+Si el coronavirus topa con la persona, esta automáticamente muere.
